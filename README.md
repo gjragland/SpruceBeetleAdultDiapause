@@ -15,3 +15,5 @@ SNOTEL_EchoLakeAndJackwackerGulch.csv - SNOTEL temperatures from Jackwacker Gulc
 GuanellaCampgroundIbuttonFall2023.csv - raw temperature data from logger placed in tree at Guanella Pass Campground in 2023
 
 GuanellaNaylorRoadIbuttonFall2023.csv - raw temperature data from logger placed in tree near Naylor Lake Road in 2023
+
+predictTemps2019from2023.R - R script to predict 2019 tree temperatures based on 2023 tree and SNOTEL data
